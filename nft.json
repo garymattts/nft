@@ -4,7 +4,7 @@
   "symbol": "testmeads",
   "seller_fee_basis_points": 1000,
   "image": "https://raw.githubusercontent.com/garymattts/nft/main/img.jpg",
-  "uri": "https://raw.githubusercontent.com/garymattts/nft/main/img.jpgnft.json",
+  "uri": "https://raw.githubusercontent.com/garymattts/nft/main/nft.json",
   "external_url": "https://raw.githubusercontent.com/garymattts/nft/main",
   "collection": {
     "name": "testme1",
