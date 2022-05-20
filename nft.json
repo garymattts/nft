@@ -1,0 +1,47 @@
+{
+  "name": "testme1",
+  "description": "asdf",
+  "symbol": "testmeads",
+  "seller_fee_basis_points": 1000,
+  "image": "https://raw.githubusercontent.com/garymattts/nft/main/img.jpg",
+  "uri": "https://raw.githubusercontent.com/garymattts/nft/main/img.jpgnft.json",
+  "external_url": "https://raw.githubusercontent.com/garymattts/nft/main",
+  "collection": {
+    "name": "testme1",
+    "family": "testme1"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/garymattts/nft/main/img.jpg",
+        "type": "image/jpg"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HuzDVSEANp8zwvnuHprLa1kgKfrFpYFq1QfqYv5SgSuM",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "game-node-id",
+      "value": 181
+    },
+    {
+      "trait_type": "tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "power-level",
+      "value": 0
+    },
+    {
+      "trait_type": "faction",
+      "value": "asdf"
+    }
+  ],
+  "is_mutable": true,
+  "maxSupply": 1
+}
