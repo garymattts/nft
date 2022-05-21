@@ -5,10 +5,10 @@
   "seller_fee_basis_points": 1000,
   "image": "https://raw.githubusercontent.com/garymattts/nft/main/img.jpg",
   "uri": "https://raw.githubusercontent.com/garymattts/nft/main/nft.json",
-  "external_url": "https://raw.githubusercontent.com/garymattts/nft/main",
+  "external_url": "https://ev.io/",
   "collection": {
-    "name": "testme1",
-    "family": "testme1"
+    "name": "EV.IO First Edition Characters",
+    "family": "EV.IO"
   },
   "properties": {
     "files": [
